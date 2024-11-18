@@ -10,10 +10,10 @@ Este proyecto es una aplicación web que permite a los usuarios buscar y visuali
 
 ## Tecnologías Utilizadas
 
-- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
-- **TypeScript**: Lenguaje de programación que extiende JavaScript añadiendo tipos estáticos.
-- **Material-UI**: Biblioteca de componentes de interfaz de usuario para React.
-- **PokeAPI**: API pública que proporciona información sobre pokémons.
+- **React**
+- **TypeScript**
+- **Material-UI**
+- **PokeAPI**
 
 ## Cómo Ejecutar el Proyecto
 
@@ -35,9 +35,3 @@ Este proyecto es una aplicación web que permite a los usuarios buscar y visuali
    ```
 
 La aplicación estará disponible en `http://localhost:port`.
-
-## Estructura del Proyecto
-
-- **src/components**: Contiene los componentes de React utilizados en la aplicación.
-- **src/services**: Contiene los servicios para interactuar con la API de PokeAPI.
-- **src/types**: Contiene las definiciones de tipos TypeScript utilizadas en la aplicación.
