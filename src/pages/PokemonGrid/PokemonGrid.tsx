@@ -215,7 +215,7 @@ export const PokemonGrid = () => {
   }, [searchTerm, displayedPokemons.length, page, totalCount, totalPages]);
 
   return (
-    <div className="pokemon-grid min-h-screen w-full flex flex-col items-center bg-background relative">
+    <div className="pokemon-grid min-h-screen w-full flex flex-col items-center bg-background relative p-2">
       {isLoading && <Loader />}
 
       <div className="pokemon-grid__container w-full max-w-4xl">

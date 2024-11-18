@@ -4,7 +4,7 @@ interface Props {
 
 export const Layout = ({ children }: Props) => {
   return (
-    <div className="min-h-screen w-full flex flex-col items-center p-8 bg-background relative">
+    <div className="min-h-screen w-full flex flex-col items-center p-4 bg-background relative">
       <div className="w-full max-w-4xl">
         <div className="flex justify-center mb-8">
           <img
